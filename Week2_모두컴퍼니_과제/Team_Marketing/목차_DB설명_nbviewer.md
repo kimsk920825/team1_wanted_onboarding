@@ -1,9 +1,22 @@
 목차
-1. 데이터 탐구(Engineering Team과 동일)
-2. Cohort 분석
-3. 분석결과, Action Plan (PDF파일에서 확인 가능)
-4. RFM 분석
-4. 분석결과, Action Plan (PDF파일에서 확인 가능)
+Cohort
+1. 사용일자(DATE) 칼럼으로 단위 기간 만들기
+2. 유저의 첫번째 사용일 토대로 유저별 코호트 그룹 설정하기
+3. 코호트 그룹과 주문기간으로 데이터 집계하기
+4. Insight 도출 / Action Plan 제시 (pdf)
+RFM 
+1.Recency Generated
+2. Frequency Generated
+3. Monetary Generated
+    - 모두의 주차장 가격표 전처리
+    - A,B,C,D를 구분을 나눈 논리적인 기준 EDA
+    - 논리적으로 나눈 A,B,C,D GOODS_TYPE에 가격 매칭
+    - Monetary 컬럼 생성
+4. RFM 테이블 생성
+    - RFM 점수별 count 오름차순 시각화 
+
+분석 Insight / Action Plan 
+1. PDF 참조 
 
 DB 설명
 1. 실전db_after_2013.csv: 2013년 이후만 포함한 db
