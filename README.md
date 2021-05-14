@@ -12,21 +12,21 @@
     - 안태윤(https://github.com/taeyoonahn),
     - 이윤지(https://github.com/leeyunji964),
     - 박성준(https://github.com/rjsdl56),
-    - 김승규(https://github.com/kimsk920825),
+    - 김승규(https://github.com/kimsk920825)
     - ~~김진환~~
     - ~~김나혜~~
 
 - 과제 진행:
     - Week1
-        - : 원티드에서 제공한 회사 실 db 활용.
-        - : 유니콘 기업을 찾기 위한 EDA/발표
+        -  원티드에서 제공한 회사 실 db 활용.
+        -  유니콘 기업을 찾기 위한 EDA/발표
     - Week2
-        - : 모두의 주차장에서 제공한 회사 실 db활용.
-        - : MSE, MAE 계산값
-        - : 요일별 이용량, 유저별 이용 count값에 대한 분석 EDA 
-            - : Cohort, RFM 분석
-            - : 앱 부서, 홍보 마케팅 부서, 경영관리 부서에 Action Plan 제시 
-            - : MSE, MAE 계산값을 가지고 Action Plan 제시 
+        -  모두의 주차장에서 제공한 회사 실 db활용.
+        -  MSE, MAE 계산값
+        -  요일별 이용량, 유저별 이용 count값에 대한 분석 EDA 
+            -  Cohort, RFM 분석
+            -  IT 기술지원 팀, 기획 운영팀, 마케팅팀, CS 운영팀에 Action Plan 제시
+            -  MSE, MAE 계산값 가지고 Action Plan 제시
     - Week3
         
     - Week4
