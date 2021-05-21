@@ -18,18 +18,21 @@
 
 - 과제 진행:
     - Week1
-        -  원티드에서 제공한 회사 실 db 활용.
+        -  원티드에서 제공한 회사 실 db 활용
         -  유니콘 기업을 찾기 위한 EDA/발표
     - Week2
-        -  모두의 주차장에서 제공한 회사 실 db활용.
+        -  모두의 주차장에서 제공한 회사 실 db 활용
         -  MSE, MAE 계산값
         -  요일별 이용량, 유저별 이용 count값에 대한 분석 EDA 
             -  Cohort, RFM 분석
             -  IT 기술지원 팀, 기획 운영팀, 마케팅팀, CS 운영팀에 Action Plan 제시
             -  MSE, MAE 계산값 가지고 Action Plan 제시
     - Week3
-        
-    - Week4
+        - 클로젯 쉐어에서 제공한 회사 실 db활용 
+        - Step1: 잠재 고객 확보에 주력하라! (Acquisition)
+        - Step2: 구매 고객으로 연결하라 (Activation)
+        - Step3: 우량 고객의 파이를 늘려라 (Revenue)
+        - Jumping Step: 거시적인 Action Plan 제시. 
 
 
 
