@@ -26,7 +26,7 @@ DB 설명
 4. 가격데이터.csv 모두의 주차장 가격표 전처리 db
 5. price_column_added: A,B,C,D로 분류된 value에 값을 부여한 db
 
-nbviewer 주소: 
+nbviewer 주소: https://nbviewer.jupyter.org/gist/kimsk920825/de1cc8ed501ea1a47307d4eacde91056
 
 Warning
 1. nbviewer에러 코드: nbviewer 서버에 Remote HTTP 404에러코드 발생. 
