@@ -8,6 +8,3 @@
 
 DB 설명<br>
     1. 팀_basline_csv.csv: 원본 데이터에서 팀원 전체가 쓸 수 있게 파생변수, 전처리된 데이터 <br>
-
-Ipynb 파일 <br>
-    1. https://github.com/kimsk920825/team1_wanted_onboarding/issues/86 <br>
